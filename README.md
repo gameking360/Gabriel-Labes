@@ -2,18 +2,19 @@
 
 
 - 🌱 I am currently  styuding  C# (.Net,EntityFramework,etc), Front-End (Angular,Html,Css,Bootstrap,TypeScript) and SqlServer.
-- > (Brasil) Eu atualmente estou estudando C# (.Net,EntityFramework,etc), Front-End (Angular,Html,Css,Bootstrap,TypeScript) e SqlServer.
-<br>
-<br>
-- 🤖 I am working at a university helping teachers, but seraching  enter at the programing area;
-- > (Brasil) Trabalho em uma universidade auxiliando professores, mas busco ingressar na área de programação;
+  > (Brasil) Eu atualmente estou estudando C# (.Net,EntityFramework,etc), Front-End (Angular,Html,Css,Bootstrap,TypeScript) e SqlServer.
+
+
+
+- 🤖 I am working at a university helping teachers, but seraching  enter at the programing area.
+  > (Brasil) Trabalho em uma universidade auxiliando professores, mas busco ingressar na área de programação.
 
 <br>
 <br>
 
 <div align="center" margin-botton: "10rem">
   <a href="https://github.com/gameking360">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gameking360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gameking360&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gameking360&layout=compact&langs_count=168&theme=gotham"/>
 </div>
 
