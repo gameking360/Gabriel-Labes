@@ -6,12 +6,12 @@
 <br>
 <br>
 - 🤖 I am working at a university helping teachers, but seraching  enter at the programing area;
-- > (Brasil) Trablho em uma universidade auxiliando professores, mas busco ingressar na área de programação;
+- > (Brasil) Trabalho em uma universidade auxiliando professores, mas busco ingressar na área de programação;
 
 
 <div align="center" margin-botton: "10rem">
   <a href="https://github.com/gameking360">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gameking360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://gitahub-readme-stats.vercel.app/api?username=Gameking360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gameking360&layout=compact&langs_count=168&theme=gotham"/>
 </div>
 
